@@ -19,7 +19,7 @@ To get started with Storyteller, follow these simple steps:
 
 ## Contributing
 
-We welcome contributions from anyone interested in improving Storyteller. If you have suggestions, bug reports, or would like to contribute code, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from anyone interested in improving Storyteller. If you have suggestions, bug reports, or would like to contribute code, please follow our [contribution guidelines](CONTRIBUTING.md). 
 
 ## License
 
